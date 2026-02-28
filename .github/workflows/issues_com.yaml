@@ -1,5 +1,4 @@
 name: create or update comment
-
 on:
   issues:
     types: [opened]
